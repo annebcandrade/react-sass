@@ -1,7 +1,7 @@
 import Avatar from '../img/perfil.jpg'
 
-import "../styles/components/Sidebar.sass";
 import InformationContainer from './InformationContainer';
+import "../styles/components/sidebar.sass";
 
 const Sidebar = () => {
     return  <aside id="sidebar">
