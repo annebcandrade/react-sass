@@ -1,15 +1,15 @@
 # Documentação Teste Técnico - Ensinio 
 
-🚀 # # Deploy: 
+ # # 🚀 Deploy: 
 
-* # #  💡 Como Funciona a aplicação? 
+ # #  💡 Como Funciona a aplicação? 
 A aplicação em questão trata-se de uma interface da empresa Ensinio, quando clicamos no botão Serviços ela abre um modal embaixo do contêiner azul com as principais soluções a mostra. Se clicar no botão X o modal é fechado. Quando clicamos no botão PT também abre um modal para que o usuário possa selecionar a linguagem escolhida, que também é fechado clicando no X. 
 
 A página está toda traduzida para as linguagens de português, espanhol e inglês. 
 
 A página também está responsiva, ou seja, se adapta a diversos tamanhos de telas incluindo o mobile. 
 
-* # # 🎯 Tomada de Decisões
+# # 🎯 Tomada de Decisões
 Inclui dois modais, um de linguagem e um com as soluções pois tentei que no lugar dos botões fossem select’s, mas ao tentar adicionar imagens ao select(fornecidas de acordo com a interface do Figma) não consegui, então tive a ideia de criar os modais, assim ficaria mais bonito, mais funcional e entregaria uma melhor experiência ao usuário. 
 
 * # #  ⚜️ Tecnologias Utilizadas: 
