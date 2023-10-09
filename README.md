@@ -1,8 +1,8 @@
 # Documentação Teste Técnico - Ensinio 
 
- # # 🚀 Deploy: 
+#  🚀 Deploy: 
 
- # #  💡 Como Funciona a aplicação? 
+ # 💡 Como Funciona a aplicação? 
 A aplicação em questão trata-se de uma interface da empresa Ensinio, quando clicamos no botão Serviços ela abre um modal embaixo do contêiner azul com as principais soluções a mostra. Se clicar no botão X o modal é fechado. Quando clicamos no botão PT também abre um modal para que o usuário possa selecionar a linguagem escolhida, que também é fechado clicando no X. 
 
 A página está toda traduzida para as linguagens de português, espanhol e inglês. 
