@@ -9,14 +9,14 @@ A página está toda traduzida para as linguagens de português, espanhol e ingl
 
 A página também está responsiva, ou seja, se adapta a diversos tamanhos de telas incluindo o mobile. 
 
-# # 🎯 Tomada de Decisões
+# 🎯 Tomada de Decisões
 Inclui dois modais, um de linguagem e um com as soluções pois tentei que no lugar dos botões fossem select’s, mas ao tentar adicionar imagens ao select(fornecidas de acordo com a interface do Figma) não consegui, então tive a ideia de criar os modais, assim ficaria mais bonito, mais funcional e entregaria uma melhor experiência ao usuário. 
 
-* # #  ⚜️ Tecnologias Utilizadas: 
+*  #  ⚜️ Tecnologias Utilizadas: 
 
 Aplicação desenvolvia com React com Javascript, StyledComponents, fonts Degular e Inter, imagens fornecidas no link do Figma, i18n para tradução, e hooks para o funcionamento da aplicação. Axios, Json-server para a integração com APi fictícia. 
 
-* # #  💻 Código e Jornada (Passo a Passo do desenvolvimento da aplicação) 
+*  #  💻 Código e Jornada (Passo a Passo do desenvolvimento da aplicação) 
 
 1 - Ao criar a aplicação, no main principal foi definido que teríamos dois contêiners: Header e ContainerInfos, no Header a informações dentro do background azul que ocupa 50% da página e no containerinfos as outras informações. Dentro da pasta src foram criadas as pastas Containers que dentro dele tem a Home, Components, que possui o Header, ContainerzInfos, Modal e ModalLinguage e para cada um um arquivo index.jsx e o styles.já com a estilização de cada um deles. Dentro do src tem a pasta styles para o GlobalStyles, ou seja, estilizações para a página toda. 
 
@@ -37,7 +37,7 @@ Se der certo : |
 
 
 
-* # # 📧 Considerações Finais
+*  # 📧 Considerações Finais
 Espero que vocês gostem do resultado da aplicação, tentei entregar excelência e a melhor experiência quanto a qualidade da experiência do usuário. Tenham certeza que dei o meu máximo. Espero que dê tudo certo, pois será uma grande honra fazer parte do time da Ensinio!
 
 
